@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MedTime</string>
+    <string name="action_settings">Меню</string>
+
+	<string name="add_record">Добавить курс</string>
+	<string name="add_recordMed">Добавить лекарство</string>
+	<string name="delCourse">Удалить курс</string>
+	<string name="delete_record">Удалить запись</string>
+	
+	<string name="item1">Item1</string>
+	<string name="item2">Item2</string>
+	<string name="item3">Item3</string>
+	<string name="item4">Item4</string>
+	
+	<string name="addCourse">Добавить курс</string>
+	<string name="course_data">Введите название курса:</string>
+	<string name="yes">Да</string>
+	<string name="no">Нет</string>
+	<string name="cancel">Отмена</string>
+	<string name="saved">Сохранено</string>
+
+</resources>
